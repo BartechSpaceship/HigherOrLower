@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
+//this is where it starts
         Random rand = new Random();
 
         randomNumber = rand.nextInt(20) + 1;
