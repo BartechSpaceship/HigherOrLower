@@ -10,7 +10,7 @@ import android.widget.Toast;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-
+//method here 
     int randomNumber;
     public void makeToast(String string){
         Toast.makeText(MainActivity.this, string, Toast.LENGTH_LONG).show();
